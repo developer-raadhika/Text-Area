@@ -3,7 +3,7 @@
 
 🌐 Live Demo: https://developer-raadhika.github.io/Text-Area/
 
-📂 GitHub Repository: 
+📂 GitHub Repository: https://github.com/developer-raadhika/Text-Area.git
 
 A simple and responsive Real-Time Character Counter built using HTML, CSS, and JavaScript. This project allows users to type a message while displaying the number of characters entered and the remaining characters in real time.
 
